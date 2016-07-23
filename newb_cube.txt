@@ -1,0 +1,346 @@
+[DECK=cube from CubeTutor.com]
+
+White Creature
+1x Cliffside Lookout
+1x Goldmeadow Harrier
+1x Soul Warden
+1x Jeskai Student
+1x Lone Missionary
+1x Stone Haven Medic
+1x Stormfront Pegasus
+1x Topan Freeblade
+1x Whitemane Lion
+1x Aven Sunstriker
+1x Dawnglare Invoker
+1x Kor Hookmaster
+1x Mardu Hordechief
+1x Palace Guard
+1x Charging Griffin
+1x Courier Griffin
+1x Ondu Greathorn
+1x Ghostly Sentinel
+1x Plover Knights
+1x Supply-Line Cranes
+1x Totem-Guide Hartebeest
+
+White Instant
+1x Shieldmate's Blessing
+1x Artful Maneuver
+1x Celestial Flare
+1x Feat of Resistance
+1x Forfend
+1x Gideon's Reproach
+1x Otherworldly Journey
+1x Pressure Point
+1x Raise the Alarm
+1x Tandem Tactics
+1x Cease-Fire
+1x Fortify
+1x Repel the Darkness
+1x Sandblast
+
+White Sorcery
+1x Sunlance
+1x Soul Summons
+1x Healing Hands
+1x Sheer Drop
+1x Terashi's Grasp
+
+White Enchantment
+1x Glaring Aegis
+1x Hyena Umbra
+1x Journey to Nowhere
+1x Pacifism
+1x Arrest
+1x Suppression Bonds
+
+Blue Creature
+1x Salvage Drone
+1x Sidisi's Faithful
+1x Triton Shorestalker
+1x Aquamoeba
+1x Arctic Merfolk
+1x Coralhelm Guide
+1x Elusive Spellfist
+1x Merfolk Looter
+1x Mist Intruder
+1x Palace Familiar
+1x Benthic Infiltrator
+1x Eldrazi Skyspawner
+1x Jeskai Windscout
+1x Monastery Flock
+1x Sea Gate Oracle
+1x Selhoff Occultist
+1x Descendant of Soramaro
+1x Lotus Path Djinn
+1x Ojutai Interceptor
+1x Separatist Voidmage
+1x Aven Surveyor
+1x Mulldrifter
+1x Mystic of the Hidden Way
+1x Ringwarden Owl
+1x Whirlwind Adept
+1x Aethersnipe
+
+Blue Instant
+1x Unsummon
+1x Anticipate
+1x Disdainful Stroke
+1x Force Away
+1x Mana Leak
+1x Send to Sleep
+1x Artificer's Epiphany
+1x Calculated Dismissal
+1x Cancel
+1x Crippling Chill
+1x Hysterical Blindness
+1x Whisk Away
+1x Contradict
+
+Blue Sorcery
+1x Careful Study
+1x Ponder
+1x Rush of Ice
+1x Silent Departure
+1x Write into Being
+1x Write into Being
+1x Touch of Invisibility
+1x Treasure Cruise
+
+Blue Enchantment
+1x Ior Ruin Expedition
+1x Jace's Erasure
+1x Narcolepsy
+1x Singing Bell Strike
+1x Tightening Coils
+1x Claustrophobia
+1x Curse of the Bloody Tome
+
+Black Creature
+1x Death Cultist
+1x Disowned Ancestor
+1x Sludge Crawler
+1x Thornbow Archer
+1x Vampire Lacerator
+1x Blood Seeker
+1x Child of Night
+1x Hand of Silumgar
+1x Mardu Skullhunter
+1x Null Champion
+1x Rathi Trapper
+1x Shambling Ghoul
+1x Skinthinner
+1x Sultai Emissary
+1x Dutiful Attendant
+1x Hooded Assassin
+1x Nantuko Husk
+1x Gravedigger
+1x Returned Centaur
+1x Sidisi's Pet
+1x Silent Skimmer
+1x Geyserfield Stalker
+1x Soul Scourge
+1x Warren Pilferers
+1x Sultai Scavenger
+1x Shambling Attendants
+
+Black Instant
+1x Disfigure
+1x Midnight Charm
+1x Touch of Moonglove
+1x Altar's Reap
+1x Doom Blade
+1x Nameless Inversion
+1x Complete Disregard
+1x Flatten
+1x Dark Triumph
+1x Throttle
+1x Death Denied
+
+Black Sorcery
+1x Boggart Birth Rite
+1x Bone Splinters
+1x Duress
+1x Macabre Waltz
+1x Sign in Blood
+1x Rakshasa's Secret
+1x Bitter Revelation
+1x Despoil
+1x Dutiful Return
+1x Mire's Malice
+1x Demon's Grasp
+
+Black Enchantment
+1x Debilitating Injury
+1x Font of Return
+1x Melancholy
+
+Red Creature
+1x Bellows Lizard
+1x Lavastep Raider
+1x Kiln Fiend
+1x Makindi Sliderunner
+1x Mardu Scout
+1x Pouncing Kavu
+1x Bloodfire Expert
+1x Boggart Brute
+1x Fiery Hellhound
+1x Ghirapur Gearcrafter
+1x Inner-Flame Acolyte
+1x Manic Vandal
+1x Nettle Drone
+1x Valakut Invoker
+1x Valakut Predator
+1x Belligerent Whiptail
+1x Firefiend Elemental
+1x Goblin Heelcutter
+1x Emrakul's Hatcher
+1x Prickleboar
+1x Volcanic Rambler
+
+Red Instant
+1x Brute Force
+1x Burst Lightning
+1x Lightning Bolt
+1x Titan's Strength
+1x Lash Out
+1x Searing Blaze
+1x Smash to Smithereens
+1x Sure Strike
+1x Twin Bolt
+1x Trumpet Blast
+1x Volcanic Upheaval
+1x Chandra's Fury
+1x Sarkhan's Rage
+
+Red Sorcery
+1x Raze
+1x Boiling Earth
+1x Dragon Fodder
+1x Tormenting Voice
+1x Act of Treason
+1x Arc Lightning
+1x Panic Attack
+1x Lightning Javelin
+1x Arrow Storm
+1x Lava Axe
+
+Red Enchantment
+1x Lust for War
+
+Green Creature
+1x Basking Rootwalla
+1x Blisterpod
+1x Llanowar Elves
+1x Scythe Leopard
+1x Ainok Guide
+1x Elvish Visionary
+1x Nest Invader
+1x Nissa's Chosen
+1x Oran-Rief Invoker
+1x Quirion Elves
+1x Sakura-Tribe Elder
+1x Snapping Gnarlid
+1x Werebear
+1x Whisperer of the Wilds
+1x Wild Mongrel
+1x Citanul Woodreaders
+1x Lifespring Druid
+1x Kozilek's Predator
+1x Nantuko Disciple
+1x Ondu Giant
+1x Pharika's Disciple
+1x Timbermaw Larva
+1x Pine Walker
+1x Rhox Maulers
+1x Stampeding Rhino
+1x Territorial Baloth
+1x Ambush Krotiq
+1x Hooting Mandrills
+
+Green Instant
+1x Giant Growth
+1x Reclaim
+1x Vines of Vastwood
+1x Evolution Charm
+1x Feed the Clan
+1x Harrow
+1x Natural Connection
+1x Unnatural Aggression
+1x Vine Snare
+1x Elephant Ambush
+
+Green Sorcery
+1x Earthen Arms
+1x Rampant Growth
+1x Savage Punch
+1x Seek the Wilds
+1x Far Wanderings
+1x Nissa's Pilgrimage
+1x Desecration Plague
+1x Reclaiming Vines
+1x Wild Instincts
+
+Orzhov
+1x Harsh Sustenance
+
+Izzet
+1x Cunning Strike
+
+Boros
+1x War Flare
+
+Colourless Creature
+1x Eldrazi Devastator
+1x Ulamog's Crusher
+
+Colourless Artifact Creature
+1x Bonded Construct
+1x Runed Servitor
+1x Alloy Myr
+1x Cathodion
+1x Frogmite
+1x Guardian Automaton
+1x Myr Enforcer
+
+Colourless Artifact
+1x Adventuring Gear
+1x Flayer Husk
+1x Springleaf Drum
+1x Wanderer's Twig
+1x Wayfarer's Bauble
+1x Glint Hawk Idol
+1x Sphere of the Suns
+1x Veteran's Sidearm
+1x Moonglove Extract
+1x Tumble Magnet
+
+Colourless Land
+1x Azorius Chancery
+1x Bloodfell Caves
+1x Blossoming Sands
+1x Boros Garrison
+1x Dimir Aqueduct
+1x Dismal Backwater
+1x Evolving Wilds
+1x Fertile Thicket
+1x Golgari Rot Farm
+1x Gruul Turf
+1x Izzet Boilerworks
+1x Jungle Hollow
+1x Looming Spires
+1x Mortuary Mire
+1x Orzhov Basilica
+1x Rakdos Carnarium
+1x Rugged Highlands
+1x Sandstone Bridge
+1x Scoured Barrens
+1x Selesnya Sanctuary
+1x Simic Growth Chamber
+1x Skyline Cascade
+1x Swiftwater Cliffs
+1x Terramorphic Expanse
+1x Thornwood Falls
+1x Tranquil Cove
+1x Wind-Scarred Crag
+[/DECK]
